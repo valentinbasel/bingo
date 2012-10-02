@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="331.68068"
-     inkscape:cy="639.7467"
+     inkscape:cy="568.31813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,6 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,7 +74,10 @@
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
-       id="g3046">
+       id="g3046"
+       inkscape:export-filename="/home/valentin/github/bingo/imagenes/empezar.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -96,6 +100,62 @@
            x="363.22601"
            id="tspan3044"
            sodipodi:role="line">tirar</tspan></text>
+    </g>
+    <g
+       id="g3081"
+       inkscape:export-filename="/home/valentin/github/bingo/imagenes/reset.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/valentin/github/bingo/imagenes/ficha2.png"
+         ry="5.7903714"
+         y="442.45303"
+         x="199.89313"
+         height="39.104008"
+         width="118.4992"
+         id="rect2985-8-7-3"
+         style="fill:#800000;stroke:#00ff00;stroke-width:1.50079942;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3042-4"
+         y="476.02103"
+         x="216.33028"
+         style="font-size:35.99339294px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         xml:space="preserve"><tspan
+           y="476.02103"
+           x="216.33028"
+           id="tspan3044-8"
+           sodipodi:role="line">Reset</tspan></text>
+    </g>
+    <g
+       id="g3116"
+       inkscape:export-filename="/home/valentin/github/bingo/imagenes/salir.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/valentin/github/bingo/imagenes/ficha2.png"
+         ry="5.7903714"
+         y="505.45642"
+         x="192.87685"
+         height="39.104008"
+         width="118.4992"
+         id="rect2985-8-7-3-1"
+         style="fill:#800000;stroke:#00ff00;stroke-width:1.50079942;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3042-4-2"
+         y="539.23529"
+         x="217.18755"
+         style="font-size:35.99339294px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+         xml:space="preserve"><tspan
+           y="539.23529"
+           x="217.18755"
+           id="tspan3044-8-0"
+           sodipodi:role="line">Salir</tspan></text>
     </g>
   </g>
 </svg>
